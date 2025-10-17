@@ -57,7 +57,7 @@ El dashboard permite al usuario:
 
 | Abrir Filtros | Borrar Filtros | Conclusiones | Información |
 |---------------|---------------|---------------|--------------|
-| ![Abrir](Imágenes/Segmentaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segmentaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segmentaciones/Conclusiones.png) | ![Información](Imágenes/Segmentaciones/Información.png) |
+| ![Abrir](Imágenes/Segmentaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segmentaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segmentaciones/Conclusiones.png) | ![Información](Imágenes/Segmentaciones/Info.png) |
 
 ---
 
@@ -80,8 +80,6 @@ El dashboard permite al usuario:
 
 
 ## 📥 Acceso al PBIX original
-
-👉 [Descargar Dashboard PBIX](PON_AQUI_TU_ENLACE_DE_DRIVE)
 
 > 📌 *El archivo `.pbix` no se sube al repositorio debido a su tamaño.  
 > [Acceso al Dashboard PBIX] (https://app.powerbi.com/links/U4yaRx9zva?ctid=899789dc-202f-44b4-8472-a6d40f9eb440&pbi_source=linkShare&bookmarkGuid=c8f78832-cdae-4346-9d5d-6243dcc5d727)
