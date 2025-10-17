@@ -1,0 +1,14 @@
+# Sistema
+Thumbs.db
+.DS_Store
+*.tmp
+~$*
+
+# Power BI
+*.pbip
+*.pbit
+*.pbix
+*.pbix.RESTORE
+
+# Office temporales
+~$*.xlsx
