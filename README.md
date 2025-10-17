@@ -55,13 +55,11 @@ El dashboard permite al usuario:
 |-----------------------|----------------|------------------------------------|
 | ![Abrir](Imágenes/Dashboard/Tooltip1.png) | ![Borrar](Imágenes/Dashboard/Tooltip2.png) | ![Conclusiones](Imágenes/Dashboard/Tooltip3.png) |
 
----
-
 ### 🖱️ Iconos (Canva)
 
 | Abrir Filtros | Cerrar Filtros | Conclusiones | Información |
 |---------------|----------------|--------------|--------------|
-| ![Abrir](Imágenes/Segementaciones/AbrirFiltros.png) | ![Cerrar](Imágenes/Segementaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segmentaciones/Conclusiones.png) | ![Información](Imágenes/Segmentaciones/Info.png) |
+| ![Abrir](Imágenes/Filtros/Abrir_Filtros.png) | ![Cerrar](Imágenes/Filtros/Cerrar_Filtros.png) | ![Conclusiones](Imágenes/Filtros/Conclusiones.png) | ![Información](Imágenes/Filtros/Info.png) |
 
 ---
 
@@ -78,7 +76,7 @@ El dashboard permite al usuario:
 │  └─ Segmentaciones/        (iconos para botones interactivos)
 └─ Informe/
    └─ Conclusiones_dashboard.pdf
-
+```
 ---
 
 ## 📥 Acceso al PBIX original
