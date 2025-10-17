@@ -47,21 +47,27 @@ El dashboard permite al usuario:
 - Ver **tooltips** con detalles operativos al pasar el ratón.  
 - Acceder rápidamente a paneles de información y conclusiones mediante botones interactivos.
 
+---
+
 ### 🖱️ Tooltips
 
 | Tooltip Tipo Servicio | Tooltip Costes | Tooltip Lugar de Entrega y Volumen |
 |-----------------------|----------------|------------------------------------|
 | ![Abrir](Imágenes/Dashboard/Tooltip1.png) | ![Borrar](Imágenes/Dashboard/Tooltip2.png) | ![Conclusiones](Imágenes/Dashboard/Tooltip3.png) |
 
+---
+
 ### 🖱️ Iconos (Canva)
-| Abrir Filtros | Borrar Filtros | Conclusiones | Información |
+
+| Abrir Filtros | Cerrar Filtros | Conclusiones | Información |
 |---------------|----------------|--------------|--------------|
-| ![Abrir](Imágenes/Segementaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segementaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segementaciones/Conclusiones.png) |  ![Información](Imágenes/Segementaciones/Info.png) |
+| ![Abrir](Imágenes/Segementaciones/AbrirFiltros.png) | ![Cerrar](Imágenes/Segementaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segmentaciones/Conclusiones.png) | ![Información](Imágenes/Segmentaciones/Info.png) |
 
 ---
 
 ## 📂 Estructura de carpetas
 
+```plaintext
 04_Gestión_Transporte/
 ├─ Dashboard/                (PBIX local - no subido)
 ├─ Datos/
@@ -74,7 +80,6 @@ El dashboard permite al usuario:
    └─ Conclusiones_dashboard.pdf
 
 ---
-
 
 ## 📥 Acceso al PBIX original
 
