@@ -54,10 +54,8 @@ El dashboard permite al usuario:
 | ![Abrir](Imágenes/Dashboard/Tooltip1.png) | ![Borrar](Imágenes/Dashboard/Tooltip2.png) | ![Conclusiones](Imágenes/Dashboard/Tooltip3.png) |
 
 ### 🖱️ Iconos (Canva)
-
 | Abrir Filtros | Borrar Filtros | Conclusiones | Información |
-|---------------|---------------|---------------|--------------|
-| ![Abrir](Imágenes/Segmentaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segmentaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segmentaciones/Conclusiones.png) | ![Información](Imágenes/Segmentaciones/Info.png) |
+| ![Abrir](Imágenes/Segementaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segementaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segementaciones/Conclusiones.png) |  ![Información](Imágenes/Segementaciones/Info.png) |
 
 ---
 
