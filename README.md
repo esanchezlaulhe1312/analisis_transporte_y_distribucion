@@ -55,13 +55,12 @@ El dashboard permite al usuario:
 
 ### 🖱️ Iconos (Canva)
 | Abrir Filtros | Borrar Filtros | Conclusiones | Información |
+|---------------|----------------|--------------|--------------|
 | ![Abrir](Imágenes/Segementaciones/AbrirFiltros.png) | ![Borrar](Imágenes/Segementaciones/CerrarFiltros.png) | ![Conclusiones](Imágenes/Segementaciones/Conclusiones.png) |  ![Información](Imágenes/Segementaciones/Info.png) |
 
 ---
 
 ## 📂 Estructura de carpetas
-
----
 
 04_Gestión_Transporte/
 ├─ Dashboard/                (PBIX local - no subido)
